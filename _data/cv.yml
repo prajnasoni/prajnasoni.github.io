@@ -1,0 +1,55 @@
+- title: Applied Research Scientist
+  organization: Alinia AI
+  url: https://alinia.ai
+  location: New York City (Remote)
+  dates: Aug 2024 – Present
+  summary: Designing and building evaluation systems to improve reliability, alignment, and performance of language model deployments.
+  skills: AI Evaluation · Applied Research · LLM Post-Training · Dataset Development
+
+- title: Graduate Research Assistant
+  organization: MIT CSAIL Algorithmic Alignment Group
+  url: https://algorithmicalignment.csail.mit.edu
+  location: Cambridge, MA
+  dates: Mar 2023 – May 2024
+  summary: Researched decentralized evaluation frameworks for algorithmic systems with a focus on language models.
+  skills: AI Alignment · User Research · AI Policy · AI Evaluation
+
+- title: Chief Executive Officer
+  organization: MIT Science Policy Review
+  url: https://sciencepolicyreview.pubpub.org
+  location: Cambridge, MA
+  dates: Oct 2023 – Jul 2024
+  summary: Oversaw journal operations for Volume V and led transition to a new digital platform.
+  skills: Project Management · AI Policy · Programming
+
+- title: Software Engineer Intern
+  organization: Waymo
+  url: https://waymo.com
+  location: San Francisco, CA
+  dates: May 2023 – Aug 2023
+  summary: Improved safety metric reliability through probabilistic updates in simulation testing.
+  skills: Gaussian Process · Statistics · Simulation
+
+- title: Graduate Research Assistant
+  organization: MIT Schwarzman College of Computing
+  url: https://computing.mit.edu/
+  location: Cambridge, MA
+  dates: Jan 2022 – Feb 2023
+  summary: Developed and evaluated Responsible AI training curricula for cross-functional deployment in industry.
+  skills: User Research · AI Policy · Responsible AI
+
+- title: Software Engineer Intern
+  organization: Waymo
+  url: https://waymo.com
+  location: San Francisco, CA
+  dates: May 2022 – Aug 2022
+  summary: Built dataset infrastructure for simulation evaluation pipelines.
+  skills: C++ · Parallelisation · Evaluation Infrastructure
+
+- title: Postgraduate Research Fellow
+  organization: New York University Abu Dhabi
+  url: https://nyuad.nyu.edu
+  location: Abu Dhabi
+  dates: Sep 2020 – Aug 2021
+  summary: Studied bias propagation in recommender systems.
+  skills: Recommender Systems · Data Analytics · Simulation

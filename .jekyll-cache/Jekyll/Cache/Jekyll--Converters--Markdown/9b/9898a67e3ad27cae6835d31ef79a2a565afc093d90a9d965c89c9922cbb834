@@ -1,0 +1,52 @@
+I"�	<p>I’m interested in exploring methodologies that help us understand and bridge the socio-technical gap in AI systems - their evaluations, deployments, and governance.</p>
+
+<p>Currently thinking about:</p>
+
+<ul>
+  <li>
+    <p><strong>Improving evaluations</strong>
+<em>e.g. how can we better measure evaluations to ensure construct validity and claim validity?</em></p>
+  </li>
+  <li>
+    <p><strong>Context-specificity</strong>
+<em>e.g. how do we effectively operationalise evaluations in multilingual and code-switching environments?</em></p>
+  </li>
+  <li>
+    <p><strong>Performance Robustness</strong>
+<em>e.g. To what extent are model behaviors stable, and hence evaluation results robust, across semantic perturbations, distribution shifts, or rephrased inputs?</em></p>
+  </li>
+</ul>
+
+<p>If you’re also thinking about the above, let’s chat!</p>
+
+<p>-</p>
+
+<h4 id="selected-projects--work">Selected Projects &amp; Work</h4>
+
+<ul>
+  <li>
+    <p><strong><a href="https://www.taig-icml.com/home">CALMA: Context-Aligned Language Model Alignment</a></strong><br />
+<em><strong>Prajna Soni</strong>, Deepika Raman, Dylan Hadfield-Menell</em><br />
+<em>Preprint @ ICML 2025 Technical AI Governance Workshop</em><br />
+A framework for deriving context-specific values and alignment axes for language models by leveraging social research theories.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://dspace.mit.edu/handle/1721.1/156962">Addressing Misalignment in Language Model Deployments through Context-Specific Evaluations</a></strong><br />
+<strong><em>Prajna Soni</em></strong><br />
+<em>SM Thesis @ MIT</em><br />
+Investigates technial and regulatory methods to assess and mitigate deployment-time misalignment of LLMs.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://amulyayadav.github.io/AI4SG2023/">FARE: Fair Allocation RE-weighting</a></strong><br />
+<em>April Chen, <strong>Prajna Soni</strong></em><br />
+<em>Paper @ AAAI 2023 AI for Social Good Workshop</em><br />
+Introduces a re-weighting approach to improve fairness in allocation settings, ensuring equitable outcomes across demographic groups.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://sciencepolicyreview.org/2022/07/mitspr-191618003023/">Natural Language Processing: Understanding the Current Landscape</a></strong><br />
+<em>Medha Patki, <strong>Prajna Soni</strong></em><br />
+<em>Article @ MIT Science Policy Review</em><br />
+A policy-oriented overview of contemporary trends and challenges in NLP, including ethical and governance considerations.</p>
+  </li>
+</ul>
+:ET

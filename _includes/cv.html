@@ -1,0 +1,50 @@
+<!-- Education Section -->
+<section id="education" class="py-20 bg-gray-50">
+  <div class="container mx-auto px-6">
+    <div class="max-w-3xl mx-auto space-y-8 text-left">
+      <h2 class="text-2xl font-serif font-bold mb-12 text-primary">education</h2>
+      <div>
+        <h3 class="text-xl font-semibold text-primary">S.M. in Computer Science</h3>
+        <p class="text-accent">
+          <a href="https://www.mit.edu" class="underline">Massachusetts Institute of Technology</a> · Cambridge, MA, USA
+        </p>
+        <p class="text-gray-600 mt-2"><em>Advised by Dylan Hadfield-Menell</em></p>
+      </div>
+
+      <div>
+        <h3 class="text-xl font-semibold text-primary">S.M. in Technology Policy</h3>
+        <p class="text-accent">
+          <a href="https://www.mit.edu" class="underline">Massachusetts Institute of Technology</a> · Cambridge, MA, USA 
+        </p>
+        <p class="text-gray-600 mt-2"><em>Advised by Dylan Hadfield-Menell</em></p>
+      </div>
+
+      <div>
+        <h3 class="text-xl font-semibold text-primary">B.S. in Mechanical Engineering</h3>
+        <p class="text-accent">
+          <a href="https://nyuad.nyu.edu" class="underline">New York University Abu Dhabi</a> · Abu Dhabi, UAE 
+        </p>
+        <p class="text-gray-600 mt-2"><em>Advised by Saif Jabari and Matthew Karau</em></p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Professional Journey Section -->
+<section id="experience" class="py-20 bg-white">
+  <div class="container mx-auto px-6">
+    <div class="max-w-3xl mx-auto space-y-8 text-left">
+      <h2 class="text-2xl font-serif font-bold mb-12 text-primary">professional experiences</h2>
+      {% for item in site.data.cv %}
+      <div>
+        <h3 class="text-xl font-semibold text-primary">{{ item.title }}</h3>
+        <p class="text-accent">
+          <a href="{{ item.url }}" class="underline">{{ item.organization }}</a> · {{ item.location }} · {{ item.dates }}
+        </p>
+        <!-- <p class="text-s text-gray-500 mt-1">Dates: {{ item.dates }}</p> -->
+        <p class="text-gray-600 mt-1">{{ item.summary }}</p>
+        <p class="text-xs italic text-gray-500 mt-1">Skills: {{ item.skills }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
